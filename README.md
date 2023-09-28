@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=210&section=header&text=Taehee%Kim&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=35&fontAlign=75)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=210&section=header&text=Taehee%Kim&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=35&fontAlign=75)
 # ✨ Full Stack Developer 👩🏻‍💻
 
 ### About Me:
@@ -57,6 +57,10 @@
 <img src="https://img.shields.io/badge/Sketchup-005F9E?style=for-the-badge&logo=Sketchup&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white">
 
+<br/><br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<br/><br/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer)
 </div>
 <!--
 **ktehi21/ktehi21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

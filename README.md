@@ -58,7 +58,8 @@
 <img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white">
 
 <br/><br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github.com/ktehi21/github-stats-transparent/blob/output/generated/overview.svg)
+![Top Langs](https://github.com/ktehi21/github-stats-transparent/blob/output/generated/languages.svg)
 <br/><br/>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer)
 </div>

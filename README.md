@@ -3,7 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=210&section=header&text=Taehee%Kim&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=35&fontAlign=75)
 # ✨ Full Stack Developer 👩🏻‍💻
 
-### About Me:
+### About Me
 <a href="https://www.linkedin.com/in/taehee-kim-van0216"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/taehee-kim-van0216"/></a>
 <a href="https://flowcv.com/resume/8svnsl68e5"><img src="https://img.shields.io/badge/Resume-FFCD00?style=for-the-badge&logo=Readme&logoColor=black&link=https://flowcv.com/resume/8svnsl68e5"/></a>
 <a href="mailto:k.tehi21@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:k.tehi21@gmail.com"/></a>
@@ -18,7 +18,7 @@
 <br/><br/>
 #### LANGUAGES
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=RubyOnRails&logoColor=white">
+<img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=for-the-badge&logo=RubyOnRails&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white">
@@ -50,10 +50,13 @@
 
 #### TOOLS
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-<img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"><br/>
+<img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/polypane-3c8da3?style=for-the-badge&logoColor=white">
+<br/>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeIllustrator&logoColor=white">
-<img src="https://img.shields.io/badge/indesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white">
+<img src="https://img.shields.io/badge/indesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white"><br/>
 <img src="https://img.shields.io/badge/Sketchup-005F9E?style=for-the-badge&logo=Sketchup&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white">
 

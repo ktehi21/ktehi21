@@ -1,5 +1,9 @@
-### Hi there 👋
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=210&section=header&text=Taehee%Kim&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=35&fontAlign=75)
+# ✨ Full Stack Developer 👩🏻‍💻
 
+</div>
 <!--
 **ktehi21/ktehi21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
